@@ -1,0 +1,19 @@
+{
+  "name": "histy",
+  "version": "1.0.0",
+  "description": "histy bot ;)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cellixx",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}

@@ -1,0 +1,12 @@
+{
+   "token": "seu token",
+   "prefix": "seu prefix",
+   "admins": [
+        "id 1", "id 2", "id 3"
+],
+"botname": "nome do seu bot",
+"color": "cor desejada para as embeds, ex.: BLUE, PURPLE, RED",
+"owner": "seu id",
+"version": "versão do bot. Ex.: 11.4"
+
+}
